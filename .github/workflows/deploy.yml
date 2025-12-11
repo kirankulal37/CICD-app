@@ -3,7 +3,7 @@ name: Simple Vercel Deployment (React)
 on:
   push:
     branches:
-      - main   # deploy when main branch is updated
+      - main  
 
 jobs:
   deploy:

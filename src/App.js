@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>CICD Deployment 9</h1>
+        <h1>CI/CD + SonarCloud + Vercel!</h1>
+
       </header>
     </div>
   );

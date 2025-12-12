@@ -5,12 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-<<<<<<< HEAD
-        <h1>hello1</h1>
-=======
-        <h1> CI/CD + Sonar + Vercel dployment 3 </h1>
-
->>>>>>> kiran-feature
+        <h1>CI/CD + Sonar + Vercel deployment 3</h1>
       </header>
     </div>
   );

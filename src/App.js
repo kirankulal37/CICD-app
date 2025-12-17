@@ -2,7 +2,6 @@
 import './App.css';
 
 function App() {
-  var n=20;
   return (
     <div className="App">
       <header className="App-header">
